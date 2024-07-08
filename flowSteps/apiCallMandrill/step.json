@@ -1,8 +1,8 @@
 {
-	"label": "API call to skeleton",
-	"name": "apiCallSkeleton",
+	"label": "API call to mandrill",
+	"name": "apiCallMandrill",
 	"category": "integrations",
-	"description": "This flow step will send generic request to skeleton.",
+	"description": "This flow step will send generic request to mandrill",
 	"inputs": [
 		{
 			"label": "Method",
