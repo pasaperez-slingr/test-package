@@ -70,7 +70,7 @@ exports.removeAccessToken = function () {
  Public API - Generic Functions
  ****************************************************/
 
-export.ping = function() {,
+exports.ping = function() {,
         {
             "label": "Callback",
             "name": "callback",
