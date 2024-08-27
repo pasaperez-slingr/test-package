@@ -70,12 +70,7 @@ exports.removeAccessToken = function () {
  Public API - Generic Functions
  ****************************************************/
 
-exports.ping = function() {,
-        {
-            "label": "Callback",
-            "name": "callback",
-            "description": "Happens when a async process is finished"
-        }
+exports.ping = function() {
  return "pong";
 }
 
